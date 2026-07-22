@@ -6,7 +6,7 @@ int main()
     int choice, num, i, isPrime;
     unsigned long int fact;
 
-    printf("\n\n\t\tLabEx - Best place to learn\n\n\n");
+    printf("\n\n\t\tLabAlm - O melhor lugar para aprender\n\n\n");
 
     while (1)
     {
